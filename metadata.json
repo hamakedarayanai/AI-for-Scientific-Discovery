@@ -1,0 +1,5 @@
+{
+  "name": "AI for Scientific Discovery",
+  "description": "An AI-powered tool to accelerate scientific discovery by ingesting research topics, identifying non-obvious connections, generating novel hypotheses, and providing multi-modal explanations including diagrams and data visualizations.",
+  "requestFramePermissions": []
+}
